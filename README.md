@@ -21,3 +21,4 @@ This project implements a Transformer-based model for multivariate time series f
 
 ## Metrics
 MAE and RMSE are used to compare performance.
+<img width="530" height="457" alt="image" src="https://github.com/user-attachments/assets/0df12d9d-a001-4635-b99f-b9e45252219a" />
